@@ -1,0 +1,11 @@
+```mermaid
+mindmap
+root((CSS))
+  (selector)
+    tag
+    id
+    class
+  (propiedad)
+    color
+    font-size
+```

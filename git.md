@@ -1,0 +1,18 @@
+```mermaid
+mindmap
+root((git))
+  .gitignore
+  checkout
+  config
+    username
+    mail
+  ((local))  
+    init
+      add
+        reset
+        commit
+  ((remotos))
+      init
+      push
+      pull
+```
